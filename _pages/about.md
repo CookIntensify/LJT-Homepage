@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the HKUST NLP Group, advised by [Prof. Junxian He](https://github.com/CookIntensify/LJT-Homepage). I received my B.Eng. from Shanghai Jiao Tong University in June 2024, where I was also previously advised by Prof. Junxian He.
+I am a first-year PhD candidate at the HKUST NLP Group, advised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University in June 2024, where I was also previously advised by Prof. Junxian He.
 
 ## Research Interests
 
